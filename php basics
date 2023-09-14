@@ -3,7 +3,7 @@
 $no1 = 5;
 $_no1 = 8;
 $no3 = 67;
-$A = "ram";
+$A = "raj";
 $b = "mady"
 
 echo $_no1;
